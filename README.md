@@ -11,7 +11,7 @@
 │── images/           # Product and design images<br>
 
 <h3>🚀 Getting Started</h3>
-git clone https://github.com/your-username/BeautyProducts.com.git
+git clone https://github.com/MANJOT-WORKSHOP/Beautyproducts.com.git
 cd BeautyProducts.com
 Open index.html in your browser to view the site.
 
